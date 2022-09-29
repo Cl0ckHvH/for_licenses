@@ -1,2 +1,4 @@
-license1 = "iaof1fA"
-ash = "123"
+{
+  license1 = "iaof1fA"
+  ash = "123"
+}
